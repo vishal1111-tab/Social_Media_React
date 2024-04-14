@@ -1,0 +1,62 @@
+.app-container{
+  display: flex;
+ 
+  min-height: 800px;
+  background-color:rgb(238, 233, 224)
+}
+
+.content{
+ width: 100%;
+}
+
+.post-card{
+  margin: 50px 100px;
+
+  box-shadow: 2px 2px 5px 5px rgb(186, 193, 186);
+
+  
+}
+
+.hashtag{
+  margin: 0px 4px;
+ 
+}
+
+.reactions{
+  margin: 15px 0px 0px 0px ;
+}
+
+.create-post{
+  width: 50%;
+  margin-top: 50px;
+  margin-left: 30%;
+  /* margin: auto; */
+  padding: 20px 50px;
+  box-shadow: 2px 2px 5px 5px rgb(136, 141, 136);
+  background-color: rgb(127, 133, 133);
+ 
+}
+.line{
+  position: relative;
+   bottom: 1px;
+  right: 8px;
+}
+
+
+.welcome_msg{
+  margin: 100px 0px;
+}
+
+.card-title{
+  font-size: 2rem;
+  font-style: italic;
+}
+
+.butt{
+  margin-left: 44%;
+}
+
+.spinner{
+  margin-left: 775px;
+  margin-top: 200px;
+}
